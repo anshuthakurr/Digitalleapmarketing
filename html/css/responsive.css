@@ -1,0 +1,71 @@
+@media screen and (max-width:1199px) {
+.banner-info {
+    padding-top: 50px;
+}
+.about-slide1 .intro:before {
+    font-size: 80px;
+    line-height: 80px;
+}
+.custom-heading h2 {
+    font-size: 42px;
+    line-height: 42px;
+}
+.about-slide-content p:before {
+    width: 350px;
+    height: 330px;
+}
+.about-slide-content p {
+    font-size: 14px;
+}
+.banner-info h1 {
+    font-size: 100px;
+    line-height: 100px;
+}
+.banner-info p {
+    font-size: 28px;
+}
+.brand-reach-content h4 {
+    font-size: 32px;
+}
+.brand-reach-wrap:before {
+    font-size: 190px;
+    top: 115px;
+}
+.video-content iframe {
+    width: 100%;
+}
+.video-inner-part {
+    padding-top: 240px;
+}
+.inner-review-wrap {
+    width: 45%;
+}
+.review-wrap {
+	margin-top: 100px;
+}
+.inner-blog-wrap {
+    width: 80%;
+}
+.help-us-wrap {
+    width: 60%;
+}
+}
+
+@media screen and (max-width:991px) {
+
+}
+
+@media screen and (max-width:767px) {
+
+}
+@media screen and (max-width:640px) {
+
+}
+
+@media screen and (max-width:575px) {	
+
+}
+
+@media screen and (max-width:480px) {
+
+}
